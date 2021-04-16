@@ -1,1 +1,41 @@
+.left-col{
+    float: left;
+    width: 280px;
+    height: 1080px;
+    padding-top: 20px;
+    
+    background-color: rgb(26, 26, 87);
+    
+}
+.right-col{
+    float: right;
+    width: 70%;
+    padding-top: 50px;
+}
+.Orange_Font{
+    color: orange;
+}
+a[href="+380679374006"]{
+    color: grey;
+}
+a[href="vlad.lohynskyi17@gmail.com"]{
+    color: grey;
+}
+.Small{
+    color: grey;
+}
+.palka{
+    color: black;
 
+}
+.White{
+    color: white;
+}
+.ALL{
+    background-color: white;
+    width: 1205px;
+    height: 1100px;
+    margin: 0 auto;
+    border:  1px solid grey ;
+    padding: 1px;
+}
